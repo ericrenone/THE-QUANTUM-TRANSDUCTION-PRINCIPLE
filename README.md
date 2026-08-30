@@ -640,4 +640,3 @@ König, M., et al. (2007). "Quantum spin Hall insulator state in HgTe quantum we
 
 **Total Word Count: 9,847**
 
-*This version removes speculative predictions, adds rigorous derivations, properly attributes established work, and addresses ethical concerns regarding organomercury research. Mathematical content has been prioritized over novelty claims.*
