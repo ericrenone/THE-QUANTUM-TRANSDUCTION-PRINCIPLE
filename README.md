@@ -537,8 +537,6 @@ Mercury's relativistic properties are well-established. This document synthesize
 
 ### IX.2 On Speculative Predictions
 
-We have removed all predictions based on mathematical coincidences (golden ratios, Fibonacci sequences) that lack physical justification. These were dismissed as ungrounded by expert review, and rightly so.
-
 The four predictions above (melting curve, superconducting gap, isotope shift, Berry curvature) are grounded in established physics and are directly testable.
 
 ### IX.3 On Organomercury
